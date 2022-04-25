@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hey 👋, I'm Mohamed Magdy
 
-<!--
-**MuhammedMagdyy/MuhammedMagdyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedmagdyy/)
+[![GitHub Badge](https://img.shields.io/twitter/url?color=black&label=GitHub&logo=Github&logoColor=black&style=social&url=https%3A%2F%2Foutlook.office.com%2Fmail%2F)](https://github.com/MuhammedMagdyy)
+<a href="mailto:Mohamedmagdy121@outlook.com"><img img src="https://img.shields.io/twitter/url?color=black&label=outlook&logo=microsoft%20outlook&logoColor=blue&style=social&url=https%3A%2F%2Foutlook.office.com%2Fmail%2F" alt="outlook"/></a>
+[![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007786457554)
 
-Here are some ideas to get you started:
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Computer+Science+Student;Software+Engineer;Competitive+Programmer;Always+have+a+passion+for+coding+and+learning&center=true&width=500&height=50"></a>
+</p>
+
+<p>
+  A Software Engineer with a passion for coding and learning. I'm interested in new technologies, Competitive Programming, and Problem Solving.
+</p>
+
+<hr/>
+
+
