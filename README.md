@@ -30,10 +30,10 @@
         self.location = 'Cairo, Egypt'
         self.ides = ['Clion', 'PyCharm', 'IntelliJ']
         self.languages = ['C++', 'Java', 'Python', 'HTML', 'CSS']
-        self.challenge = "Practicing to improve my Problem Solving skill"
+        self.challenge = 'Practicing to improve my Problem Solving skill'
 
     def __str__(self):
-        return self.title
+        return self.name
 
 
 if __name__ == '__main__':
