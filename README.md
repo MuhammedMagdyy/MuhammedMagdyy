@@ -23,12 +23,12 @@
 
 ## 😎 About me
 ```py
-  class MohamedMagdy:
+  class PersonalInfo:
     def __init__(self):
         self.name = 'Mohamed Magdy'
         self.title = 'Software Engineer'
         self.location = 'Cairo, Egypt'
-        self.ides = ['Clion', 'PyCharm', 'IntelliJ']
+        self.ides = ['Clion', 'IntelliJ', 'PyCharm', 'VS Code']
         self.languages = ['C++', 'Java', 'Python', 'HTML', 'CSS']
         self.challenge = 'Practicing to improve my Problem Solving skill'
 
@@ -37,14 +37,29 @@
 
 
 if __name__ == '__main__':
-    me = MohamedMagdy()
+    me = PersonalInfo()
 ```
 
-<!--
-## IDEs
+## 🤯 Competitive Programming Profiles
 <p align="center">
-    <img src="https://media.giphy.com/media/yjSNYYnj9gAeUbSHr3/giphy.gif" alt="clion" title="clion" width="60px">
-    <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="pycharm" title="pycharm" width="60px">
-    <img src="https://media.giphy.com/media/iJWXxAr2Za6EtN2Row/giphy.gif" alt="ij" title="ij" width="60px">
+     <a href="https://codeforces.com/profile/Naruto-Kun"><img src="https://bit.ly/37EpMXq" width="50px" title="Codeforces" alt="Codeforces"/></a>
+     <a href="https://www.hackerrank.com/Muhammed_Magdy"><img src="https://bit.ly/3NbH5yd" width="50px" title="Hackerrrank" alt="Hackerrank"/></a>
+     <a href="https://leetcode.com/Muhammed_Magdy"><img src="https://bit.ly/39YnDXx" width="50px" title="Leetcode" alt="Leetcode"/></a>
+     <a href="https://atcoder.jp/users/MeGzz"><img src="https://bit.ly/3Ne9x2G" width="50px" title="AtCoder" alt="AtCoder"/></a>
 </p>
--->
+
+## 💻 Languages and Tools
+<p align="center">
+    <img src="https://bit.ly/37Epy2y" alt="C++" width="60px" title="C++"> 
+    <img src="https://bit.ly/3stK11q" alt="Python" width="55px" title="Python"> 
+    <img src="https://bit.ly/3M9nONR" alt="Java" width="55px" title="Java">
+    <img src="https://bit.ly/3FIIJVn" alt="HTML" width="55px" title="HTML">
+    <img src="https://bit.ly/3l3qkcu" alt="CSS" width="55px" title="CSS">
+    <br/>
+    <img src="https://bit.ly/3LaG6Nx" alt="Linux" width="55px" title="Linux">
+    <img src="https://bit.ly/3yvoEjR" alt="Git" width="55px" title="Git">
+    <img src="https://bit.ly/3wvo4Ai" alt="Github" width="55px" title="Github">
+
+
+
+</p>
