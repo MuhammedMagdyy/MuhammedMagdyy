@@ -1,9 +1,11 @@
 ## Hey 👋, I'm Mohamed Magdy
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedmagdyy/)
-[![GitHub Badge](https://img.shields.io/twitter/url?color=black&label=GitHub&logo=Github&logoColor=black&style=social&url=https%3A%2F%2Foutlook.office.com%2Fmail%2F)](https://github.com/MuhammedMagdyy)
-<a href="mailto:Mohamedmagdy121@outlook.com"><img img src="https://img.shields.io/twitter/url?color=black&label=outlook&logo=microsoft%20outlook&logoColor=blue&style=social&url=https%3A%2F%2Foutlook.office.com%2Fmail%2F" alt="outlook"/></a>
-[![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100007786457554)
+<p align="left">
+    <a href="https://www.linkedin.com/in/muhammedmagdyy/"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.youtube.com/channel/UC4AqXMvB7RZl0G_TnvWuKSQ"><img src="https://img.shields.io/badge/Youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+    <a href="mailto:Mohamedmagdy121@outlook.com"><img img src="https://img.shields.io/twitter/url?color=black&label=outlook&logo=microsoft%20outlook&logoColor=blue&style=social&url=https%3A%2F%2Foutlook.office.com%2Fmail%2F" alt="outlook"/></a>
+     <a href="https://www.facebook.com/profile.php?id=100007786457554"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=falt&logo=facebook&logoColor=white"/></a>
+  </p>
 
 <img src = 'https://user-images.githubusercontent.com/60513866/165189789-37c3c5de-ea7a-4284-90eb-b3b7ce747fc2.gif' alt = 'Awesome Matrix Code' align='right'
      width=281x296/>
