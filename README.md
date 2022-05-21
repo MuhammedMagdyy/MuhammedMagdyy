@@ -63,7 +63,4 @@ if __name__ == '__main__':
     <img src="https://bit.ly/3LaG6Nx" alt="Linux" width="55px" title="Linux">
     <img src="https://bit.ly/3yvoEjR" alt="Git" width="55px" title="Git">
     <img src="https://bit.ly/3wvo4Ai" alt="Github" width="55px" title="Github">
-
-
-
 </p>
