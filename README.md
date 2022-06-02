@@ -7,10 +7,10 @@
      <a href="https://www.facebook.com/profile.php?id=100007786457554" alt="Facebook" title="Facebook" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=falt&logo=facebook&logoColor=white"/></a>
   </p>
 
-<div align="right">
+<p align="right">
     <img src = 'https://user-images.githubusercontent.com/60513866/165189789-37c3c5de-ea7a-4284-90eb-b3b7ce747fc2.gif' alt = 'Awesome Matrix Code' align='right'
-     width=250x250/>
-</div>
+     width=281x296/>
+</p>
 
 <!-- https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif -->
 
