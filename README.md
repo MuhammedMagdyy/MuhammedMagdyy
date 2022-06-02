@@ -9,7 +9,7 @@
 
 <div align="right">
     <img src = 'https://user-images.githubusercontent.com/60513866/165189789-37c3c5de-ea7a-4284-90eb-b3b7ce747fc2.gif' alt = 'Awesome Matrix Code' align='right'
-     width=281x296/>
+     width=275x290/>
 </div>
 
 <!-- https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif -->
