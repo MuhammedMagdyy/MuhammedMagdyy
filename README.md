@@ -38,8 +38,8 @@
         self.name = 'Mohamed Magdy'
         self.title = 'Software Engineer'
         self.location = 'Cairo, Egypt'
-        self.ides = ['Clion', 'IntelliJ', 'PyCharm', 'VS Code']
-        self.languages = ['C++', 'Java', 'Python', 'HTML', 'CSS']
+        self.ides = ['Clion', 'PyCharm', 'VS Code']
+        self.languages = ['C++', 'JavaScript', 'Python', 'HTML', 'CSS']
         self.challenge = 'Practicing to improve my Problem Solving skill'
 
     def __str__(self):
@@ -62,9 +62,9 @@ if __name__ == '__main__':
 <p align="center">
     <img src="https://bit.ly/37Epy2y" alt="C++" width="60px" title="C++"> 
     <img src="https://bit.ly/3stK11q" alt="Python" width="55px" title="Python"> 
-    <img src="https://bit.ly/3M9nONR" alt="Java" width="55px" title="Java">
-    <img src="https://bit.ly/3FIIJVn" alt="HTML" width="55px" title="HTML">
-    <img src="https://bit.ly/3l3qkcu" alt="CSS" width="55px" title="CSS">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="55px" title="Java">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="55px" title="HTML">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="55px" title="CSS">
     <br/>
     <img src="https://bit.ly/3LaG6Nx" alt="Linux" width="55px" title="Linux">
     <img src="https://bit.ly/3yvoEjR" alt="Git" width="55px" title="Git">
