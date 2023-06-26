@@ -24,9 +24,9 @@
 
 - 🌱 I’m currently learning **Nodejs (Express.js)**
 
-- 📫 How to reach me **Mohamedmagdy121@outlook.com**
+- 📫 How to reach me? **Mohamedmagdy121@outlook.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1jVp4EDWfEOGy57lEbn-m7yaqjJUFPW-y/view?usp=sharing)
+- 📄 Wanna know about my experiences? See [My Resume](https://drive.google.com/file/d/1jVp4EDWfEOGy57lEbn-m7yaqjJUFPW-y/view?usp=sharing)
   
 <hr/>
 
@@ -36,9 +36,9 @@
 <!--     <a href="https://www.youtube.com/channel/UC4AqXMvB7RZl0G_TnvWuKSQ"><img src="https://img.shields.io/badge/Youtube-%23FF0000?style=flat&logo=youtube&logoColor=white" alt="Youtube" title="Youtube"/></a> -->
 <!--     <a href="mailto:Mohamedmagdy121@outlook.com"><img img src="https://img.shields.io/twitter/url?color=black&label=outlook&logo=microsoft%20outlook&logoColor=blue&style=social&url=https%3A%2F%2Foutlook.office.com%2Fmail%2F" alt="outlook" title="Outlook"/></a> -->
 <!--      <a href="https://www.facebook.com/profile.php?id=100007786457554" alt="Facebook" title="Facebook" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=falt&logo=facebook&logoColor=white"/></a> -->
-    <a href="https://www.linkedin.com/in/muhammedmagdyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100007786457554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Profile" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC4AqXMvB7RZl0G_TnvWuKSQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/muhammedmagdyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100007786457554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC4AqXMvB7RZl0G_TnvWuKSQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube Channel" height="30" width="40" /></a>
   </p>
 
 
@@ -51,8 +51,8 @@
         self.name = 'Mohamed Magdy'
         self.title = 'Software Engineer'
         self.location = 'Cairo, Egypt'
-        self.ides = ['Clion', 'PyCharm', 'VS Code']
-        self.languages = ['C++', 'JavaScript', 'Python', 'HTML', 'CSS']
+        self.ides = ['Clion', 'VS Code']
+        self.concepts = ['Data Structures', 'Algorithms', 'OOP', 'Database']
         self.challenge = 'Practicing to improve my Problem-Solving skill'
 
     def __str__(self):
@@ -74,14 +74,17 @@ if __name__ == '__main__':
 ## 💻 Tools & Technologies
 <p align="center">
     <img src="https://bit.ly/37Epy2y" alt="C++" width="60px" title="C++"> 
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="55px" title="JavaScript">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="55px" title="PHP">
     <img src="https://bit.ly/3stK11q" alt="Python" width="55px" title="Python"> 
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="55px" title="Java">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="55px" title="HTML">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="55px" title="CSS">
     <br/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Nodejs" width="55px title="Nodejs">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="55px title="Express.js">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Nodejs" width="55px" title="Nodejs">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="55px" title="Express.js">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" alt="Sequelize" width="55px" title="Sequelize">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="55px" title="MySQL">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="55px" title="MongoDB">
     <br/>
 <!--     <img src="https://bit.ly/3LaG6Nx" alt="Linux" width="55px" title="Linux"> -->
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="55px" title="Linux">
