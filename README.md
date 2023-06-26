@@ -30,7 +30,7 @@
   
 <hr/>
 
-## 👀 Connect with me:
+## 👀 Connect with me
 <p align="left">
 <!--     <a href="https://www.linkedin.com/in/muhammedmagdyy/"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/></a> -->
 <!--     <a href="https://www.youtube.com/channel/UC4AqXMvB7RZl0G_TnvWuKSQ"><img src="https://img.shields.io/badge/Youtube-%23FF0000?style=flat&logo=youtube&logoColor=white" alt="Youtube" title="Youtube"/></a> -->
