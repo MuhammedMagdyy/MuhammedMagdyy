@@ -19,7 +19,7 @@
 
 
 <p>
-  A Software Engineer with a passion for coding and learning. I'm interested in new technologies, Competitive Programming, and Problem-Solving.
+  I'm a <strong>Talented Software Engineer</strong> with a passion for coding and learning and a strong focus on Node.js. With a solid foundation in core concepts such as Data Structures, Algorithms, and OOP. I'm interested in new technologies and trying to use the software as a solution in my life.
 </p>
 
 - 🌱 I’m currently learning **Nodejs (Express.js)**
