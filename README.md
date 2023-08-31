@@ -26,7 +26,7 @@
 
 - 📫 How to reach me? **Mohamedmagdy121@outlook.com**
 
-- 📄 Wanna know about my experiences? See [My Resume](https://drive.google.com/file/d/1jVp4EDWfEOGy57lEbn-m7yaqjJUFPW-y/view?usp=sharing)
+- 📄 Wanna know about my experiences? See <a href="https://drive.google.com/file/d/1jVp4EDWfEOGy57lEbn-m7yaqjJUFPW-y/view?usp=sharing" target="_blank">My Resume</a>
   
 <hr/>
 
