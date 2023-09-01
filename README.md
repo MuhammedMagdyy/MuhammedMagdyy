@@ -75,22 +75,22 @@ if __name__ == '__main__':
 <p align="center">
     <img src="https://bit.ly/37Epy2y" alt="C++" width="60px" title="C++"> 
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="55px" title="JavaScript">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="55px" title="PHP">
-    <img src="https://bit.ly/3stK11q" alt="Python" width="55px" title="Python"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="55px" title="TypeScript">
+<!--     <img src="https://bit.ly/3stK11q" alt="Python" width="55px" title="Python">  -->
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="55px" title="HTML">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="55px" title="CSS">
     <br/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Nodejs" width="55px" title="Nodejs">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="55px" title="Express.js">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" alt="Sequelize" width="55px" title="Sequelize">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="55px" title="MySQL">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="55px" title="MongoDB">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" alt="Prisma" width="55px" title="Prisma">
+<!--     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="55px" title="MongoDB"> -->
     <br/>
 <!--     <img src="https://bit.ly/3LaG6Nx" alt="Linux" width="55px" title="Linux"> -->
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="55px" title="Linux">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="55px" title="Git">
 <!--     <img src="https://bit.ly/3yvoEjR" alt="Git" width="55px" title="Git"> -->
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github" width="55px" title="Github"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="55px" title="Postman">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="55px" title="GitHub"> 
+<!--     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="55px" title="Postman"> -->
 <!--     <img src="https://bit.ly/3wvo4Ai" alt="Github" width="55px" title="Github"> -->
 </p>
