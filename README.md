@@ -44,7 +44,7 @@
 
 <hr/>
 
-## 😎 About me
+<!-- ## 😎 About me
 ```py
   class PersonalInfo:
     def __init__(self):
@@ -61,7 +61,7 @@
 
 if __name__ == '__main__':
     me = PersonalInfo()
-```
+``` --> 
 
 ## 🤯 Competitive Programming Profiles
 <p align="center">
