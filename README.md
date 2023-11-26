@@ -27,8 +27,6 @@
 - 📫 How to reach me? **Mohamedmagdy121@outlook.com**
 
 - 📄 Wanna know about my experiences? See <a href="https://drive.google.com/file/d/1jVp4EDWfEOGy57lEbn-m7yaqjJUFPW-y/view?usp=sharing" target="_blank">My Resume</a>
-  
-<hr/>
 
 ## 👀 Connect with me
 <p align="left">
@@ -41,8 +39,6 @@
 <a href="https://www.youtube.com/channel/UC4AqXMvB7RZl0G_TnvWuKSQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube Channel" height="30" width="40" /></a>
   </p>
 
-
-<hr/>
 
 <!-- ## 😎 About me
 ```py
