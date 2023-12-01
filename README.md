@@ -28,6 +28,8 @@
 
 - 📄 Wanna know about my experiences? See <a href="https://drive.google.com/file/d/1jVp4EDWfEOGy57lEbn-m7yaqjJUFPW-y/view?usp=sharing" target="_blank">My Resume</a>
 
+- ⁉ You can <a href="https://curiouscat.live/0xMeGzz" target="_blank">ask</a> me anything
+
 ## 👀 Connect with me
 <p align="left">
 <!--     <a href="https://www.linkedin.com/in/muhammedmagdyy/"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/></a> -->
