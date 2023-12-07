@@ -31,14 +31,14 @@
 - ⁉ You can <a href="https://curiouscat.live/0xMeGzz" target="_blank">ask</a> me anything
 
 ## 👀 Connect with me
-<p align="left">
+<p align="center">
 <!--     <a href="https://www.linkedin.com/in/muhammedmagdyy/"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/></a> -->
 <!--     <a href="https://www.youtube.com/channel/UC4AqXMvB7RZl0G_TnvWuKSQ"><img src="https://img.shields.io/badge/Youtube-%23FF0000?style=flat&logo=youtube&logoColor=white" alt="Youtube" title="Youtube"/></a> -->
 <!--     <a href="mailto:Mohamedmagdy121@outlook.com"><img img src="https://img.shields.io/twitter/url?color=black&label=outlook&logo=microsoft%20outlook&logoColor=blue&style=social&url=https%3A%2F%2Foutlook.office.com%2Fmail%2F" alt="outlook" title="Outlook"/></a> -->
 <!--      <a href="https://www.facebook.com/profile.php?id=100007786457554" alt="Facebook" title="Facebook" ><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=falt&logo=facebook&logoColor=white"/></a> -->
-    <a href="https://www.linkedin.com/in/muhammedmagdyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100007786457554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC4AqXMvB7RZl0G_TnvWuKSQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube Channel" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/muhammedmagdyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="50" width="50" /></a>
+<a href="https://www.facebook.com/profile.php?id=100007786457554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="50" width="50" /></a>
+<a href="https://www.youtube.com/channel/UC4AqXMvB7RZl0G_TnvWuKSQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube Channel" height="50" width="50" /></a>
   </p>
 
 
