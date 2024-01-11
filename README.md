@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Fresh+Graduate;Software+Engineer;Always+have+a+passion+for+coding+and+learning&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Jr.+Software+Engineer;have+a+passion+for+coding+and+learning&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -19,7 +19,7 @@
 
 
 <p>
-  I'm a <strong>Talented Software Engineer</strong> with a passion for coding, learning, and a strong focus on Node.js. With a solid foundation in core concepts such as Data Structures, Algorithms, and OOP. I'm interested in new technologies and trying to use the software as a solution in my life.
+  I'm a <strong>Talented Software Engineer</strong> with a passion for coding, learning, and a strong focus on Backend development. With a solid foundation in core concepts such as Data Structures, Algorithms, and OOP. I'm interested in new technologies and trying to use the software as a solution in my life.
 </p>
 
 - 🌱 I’m currently learning **Nodejs (Express.js)**
