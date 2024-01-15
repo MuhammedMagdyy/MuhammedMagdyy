@@ -19,10 +19,10 @@
 
 
 <p>
-  I'm a <strong>Talented Software Engineer</strong> with a passion for coding, learning, and a strong focus on Backend development. With a solid foundation in core concepts such as Data Structures, Algorithms, and OOP. I'm interested in new technologies and trying to use the software as a solution in my life.
+  I'm a <strong>Talented Software Engineer</strong> with a passion for coding, learning, and a strong focus on backend development. With a solid foundation in core concepts such as Data Structures, Algorithms, and OOP. I'm interested in new technologies and trying to use the software as a solution in my life.
 </p>
 
-- 🌱 I’m currently learning **Nodejs (Express.js)**
+- 🌱 I’m currently learning **Scala**
 
 - 📫 How to reach me? **Mohamedmagdy121@outlook.com**
 
