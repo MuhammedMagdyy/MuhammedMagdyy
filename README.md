@@ -1,5 +1,7 @@
 <h1 align="center"> Hey 👋, I'm Mohamed Magdy </h1>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=muhammedmagdyy&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedmagdyy" /> </p>
+
 <div align="center">
         <img src='https://user-images.githubusercontent.com/60513866/193420194-36d02223-e2b7-4f5b-9327-6a331b842456.gif' alt='developer' />
 </div>
