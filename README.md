@@ -7,17 +7,17 @@
 </div>
 
 <p align="center">
-        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Jr.+Software+Engineer;have+a+passion+for+coding+and+learning&center=true&width=500&height=50"></a>
+        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Software+Engineer;have+a+passion+for+coding+and+learning&center=true&width=500&height=50"></a>
 </p>
 
 <p>
-I'm a <strong>Talented Software Engineer</strong> with a passion for coding, learning, and a strong focus on backend development. With a solid foundation in core concepts such as Data Structures, Algorithms, and OOP. I'm interested in new technologies and trying to use the software as a solution in my life.
+I'm a <strong>Talented Software Engineer</strong> with a passion for coding, learning, and a strong focus on backend development. With a solid foundation in core concepts such as Data structures, Algorithms, and Object-oriented programming (OOP). I'm interested in new technologies and trying to use the software as a solution.
 </p>
 
-- 🌱 I’m currently learning **Scala** ❤️
+- 🌱 I’m currently learning and focusing on **backend development** 
 - 📫 How to reach me? **Mohamedmagdy121@outlook.com**
-- 📄 Wanna know about my experiences? See <a href="https://drive.google.com/file/d/1rSUyMSxHKPnUzDJtziGvFy1fnM5EJs-3/view" target="_blank">My Resume</a>
-- ⁉ You can <a href="https://curiouscat.live/0xMeGzz" target="_blank">ask</a> me anything
+- 📄 Do you want to know about my experiences? Check out <a href="https://drive.google.com/file/d/1rSUyMSxHKPnUzDJtziGvFy1fnM5EJs-3/view" target="_blank">My CV</a>
+<!-- ⁉ You can <a href="https://curiouscat.live/0xMeGzz" target="_blank">ask</a> me anything -->
 
 ## 🤯 Competitive Programming Profiles
 
