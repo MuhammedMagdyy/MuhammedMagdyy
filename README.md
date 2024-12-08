@@ -1,5 +1,7 @@
 <h1 align="center"> Hey 👋, I'm Mohamed Magdy </h1>
 
+<a href="https://buymeacoffee.com/megzz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=muhammedmagdyy&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedmagdyy" /> </p>
 
 <div align="center">
