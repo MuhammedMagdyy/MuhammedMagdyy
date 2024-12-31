@@ -19,8 +19,12 @@ I'm a <strong>Talented Software Engineer</strong> with a passion for coding, lea
 - 🌱 I’m currently learning and focusing on **backend development** 
 - 📫 How to reach me? **Mohamedmagdy121@outlook.com**
 - 📄 Do you want to know about my experiences? Check out <a href="https://drive.google.com/file/d/1WBVOSu5aGwcfKO66nrtQudq-7wtil9wJ/view" target="_blank">My CV</a>
+- ❓ You can <a href="https://github.com/MuhammedMagdyy/MuhammedMagdyy/discussions">ask me</a> anything!
 <!-- ⁉ You can <a href="https://curiouscat.live/0xMeGzz" target="_blank">ask</a> me anything -->
 
+<hr />
+
+<!--
 ## 🤯 Competitive Programming Profiles
 
 <p align="center">
@@ -31,25 +35,26 @@ I'm a <strong>Talented Software Engineer</strong> with a passion for coding, lea
 </p>
 
 ## 💻 Tools & Technologies
+-->
 
 <p align="center">
         <img src="https://skillicons.dev/icons?i=cpp" alt="CPP" width="55px" title="CPP">        
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="55px" title="JavaScript">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="55px" title="TypeScript">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Scala-Dark.svg" alt="Scala" width="55px" title="Scala">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="55px" title="HTML">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="55px" title="CSS">
-            <br/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Nodejs" width="55px" title="Nodejs">
+<!--         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Scala-Dark.svg" alt="Scala" width="55px" title="Scala"> -->
+            <br/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="55px" title="Express.js">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="55px" title="MySQL">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" alt="Sequelize" width="55px" title="Sequelize">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" alt="Prisma" width="55px" title="Prisma">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="55px" title="Docker">
+<!--         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" alt="Sequelize" width="55px" title="Sequelize"> -->
             <br/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="55px" title="Linux">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="55px" title="Git">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="55px" title="GitHub"> 
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="55px" title="Docker">
 </p>
 
 <!-- Comments -->
