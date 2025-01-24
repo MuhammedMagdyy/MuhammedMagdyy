@@ -17,7 +17,7 @@ I'm a <strong>Talented Software Engineer</strong> with a passion for coding, lea
 </p>
 
 - 🌱 I’m currently learning and focusing on **backend development** 
-- 📫 How to reach me? **Mohamedmagdy121@outlook.com**
+- 📫 How to reach me? **Mohamedmagdy7410@gmail.com**
 - 📄 Do you want to know about my experiences? Check out <a href="https://drive.google.com/file/d/1WBVOSu5aGwcfKO66nrtQudq-7wtil9wJ/view" target="_blank">My CV</a>
 - ❓ You can <a href="https://github.com/MuhammedMagdyy/MuhammedMagdyy/discussions">ask me</a> anything!
 <!-- ⁉ You can <a href="https://curiouscat.live/0xMeGzz" target="_blank">ask</a> me anything -->
