@@ -37,27 +37,34 @@ I'm a <strong>Talented Software Engineer</strong> with a passion for coding, lea
 ## 💻 Tools & Technologies
 -->
 
-<p align="center">
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,html,css" /><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma,redis" /><br/>
+    <img src="https://skillicons.dev/icons?i=docker,linux,git,github" /><br/>
+  </a>
+</p>
+
+<!-- Comments -->
+<!-- <p align="center">
         <img src="https://skillicons.dev/icons?i=cpp" alt="CPP" width="55px" title="CPP">        
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="55px" title="JavaScript">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="55px" title="TypeScript">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="55px" title="HTML">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="55px" title="CSS">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Nodejs" width="55px" title="Nodejs">
-<!--         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Scala-Dark.svg" alt="Scala" width="55px" title="Scala"> -->
-            <br/>
+       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Scala-Dark.svg" alt="Scala" width="55px" title="Scala"> -->
+<!--             <br/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="55px" title="Express.js">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="55px" title="MySQL">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" alt="Prisma" width="55px" title="Prisma">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="55px" title="Docker">
-<!--         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" alt="Sequelize" width="55px" title="Sequelize"> -->
-            <br/>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" alt="Sequelize" width="55px" title="Sequelize"> -->
+<!--             <br/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="55px" title="Linux">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="55px" title="Git">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="55px" title="GitHub"> 
-</p>
-
-<!-- Comments -->
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="55px" title="GitHub">  -->
+<!-- </p> -->
 <!--    <img src="https://bit.ly/37Epy2y" alt="C++" width="60px" title="C++">  -->
 <!--    <img src="https://bit.ly/3stK11q" alt="Python" width="55px" title="Python">  -->
 <!--    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="55px" title="MongoDB"> -->
