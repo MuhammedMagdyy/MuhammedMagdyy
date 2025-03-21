@@ -7,8 +7,6 @@
   
 </div>
 
-<a href="https://buymeacoffee.com/megzz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=muhammedmagdyy&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedmagdyy" /> </p>
 
 <div align="center">
@@ -54,6 +52,7 @@ I'm a <strong>Talented Software Engineer</strong> with a passion for coding, lea
 
 <!-- Comments -->
 <!-- <p align="center">
+<a href="https://buymeacoffee.com/megzz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
         <img src="https://skillicons.dev/icons?i=cpp" alt="CPP" width="55px" title="CPP">        
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="55px" title="JavaScript">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="55px" title="TypeScript">
