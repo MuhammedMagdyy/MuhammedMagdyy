@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Software+Engineer;have+a+passion+for+coding+and+learning&center=true&width=500&height=50"></a>
+        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&center=true&vCenter=true&lines=Software+Engineer;Passionate+about+coding+and+learning&center=true&width=500&height=50"></a>
 </p>
 
 <p>
@@ -45,7 +45,7 @@ I'm a <strong>Talented Software Engineer</strong> with a passion for coding, lea
 <p align=center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,html,css" /><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma,redis" /><br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,prisma,redis" /><br/>
     <img src="https://skillicons.dev/icons?i=docker,linux,git,github,azure" /><br/>
   </a>
 </p>
