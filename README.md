@@ -1,10 +1,7 @@
 <h1 align="center"> Hey 👋, I'm Mohamed Magdy </h1>
 
 <div align="center">
-  
-  ![badge](https://aktive.kerolloz.dev/egypt/MuhammedMagdyy?label=&color=12100E&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Egypt)
-  <img src="https://komarev.com/ghpvc/?username=MuhammedMagdyy&color=12100E&style=for-the-badge&label=VIEWS&abbreviated=true"/>
-  
+  <a href="https://aktive.kerolloz.dev#gh-dark-mode-only"><img src="https://img.shields.io/badge/dynamic/json?label=&query=%24.rank&suffix=%20As%20Most%20Active%20User%20in%20egypt&logo=github&style=for-the-badge&color=555&labelColor=333&url=https://aktive.kerolloz.dev/rank/egypt/MuhammedMagdyy" /></a>
 </div>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=muhammedmagdyy&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedmagdyy" /> </p>
@@ -31,6 +28,8 @@ I'm a <strong>Talented Software Engineer</strong> with a passion for coding, lea
 
 <!--
 ## 🤯 Competitive Programming Profiles
+<img src="https://komarev.com/ghpvc/?username=MuhammedMagdyy&color=12100E&style=for-the-badge&label=VIEWS&abbreviated=true"/>
+  ![badge](https://aktive.kerolloz.dev/egypt/MuhammedMagdyy?label=&color=12100E&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Egypt)
 
 <p align="center">
      <a href="https://codeforces.com/profile/MeGzz"><img src="https://bit.ly/37EpMXq" width="50px" title="Codeforces" alt="Codeforces"/></a>
@@ -44,9 +43,9 @@ I'm a <strong>Talented Software Engineer</strong> with a passion for coding, lea
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,html,css" /><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,prisma,redis" /><br/>
-    <img src="https://skillicons.dev/icons?i=docker,linux,git,github,azure" /><br/>
+    <img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,nodejs,express,nestjs" /><br/>
+    <img src="https://skillicons.dev/icons?i=linux,docker,azure,git,github" /><br/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,redis" /><br/>
   </a>
 </p>
 
