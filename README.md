@@ -43,9 +43,9 @@ I'm a <strong>Talented Software Engineer</strong> with a passion for coding, lea
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,nodejs,express,nestjs" /><br/>
-    <img src="https://skillicons.dev/icons?i=linux,docker,azure,git,github" /><br/>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,redis" /><br/>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nestjs" /><br/>
+    <img src="https://skillicons.dev/icons?i=linux,docker,azure,git,github,githubactions,nginx" /><br/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,mongodb,redis" /><br/>
   </a>
 </p>
 
