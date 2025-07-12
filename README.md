@@ -42,10 +42,12 @@ I'm a <strong>Talented Software Engineer</strong> with a passion for coding, lea
 -->
 
 <p align=center>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nestjs" /><br/>
-    <img src="https://skillicons.dev/icons?i=linux,docker,azure,git,github,githubactions,nginx" /><br/>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,mongodb,redis" /><br/>
+  <a href="https://go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" /><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts" /><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=express,nestjs,linux,nginx" /><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,azure,git,github,githubactions" /><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,prisma,typeorm,mongodb,redis" /><br/>
   </a>
 </p>
 
