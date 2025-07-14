@@ -22,10 +22,27 @@ I'm a <strong>Talented Software Engineer</strong> with a passion for coding, lea
 - 📫 How to reach me? **Mohamedmagdy7410@gmail.com**
 - 📄 Do you want to know about my experiences? Check out <a href="https://drive.google.com/file/d/1WBVOSu5aGwcfKO66nrtQudq-7wtil9wJ/view" target="_blank">My CV</a>
 - ❓ You can <a href="https://github.com/MuhammedMagdyy/MuhammedMagdyy/discussions">ask me</a> anything!
-<!-- ⁉ You can <a href="https://curiouscat.live/0xMeGzz" target="_blank">ask</a> me anything -->
 
 <hr />
 
+<p align=center>
+  <a href="https://go-skill-icons.vercel.app">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" /><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts" /><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=express,nestjs,linux,nginx" /><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,azure,git,github,githubactions" /><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,prisma,typeorm,mongodb,redis" /><br/>
+  </a>
+</p>
+
+<hr />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedmagdyy&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedmagdyy&layout=compact&theme=transparent" />
+</p>
+
+<!-- Comments -->
 <!--
 ## 🤯 Competitive Programming Profiles
 <img src="https://komarev.com/ghpvc/?username=MuhammedMagdyy&color=12100E&style=for-the-badge&label=VIEWS&abbreviated=true"/>
@@ -40,18 +57,7 @@ I'm a <strong>Talented Software Engineer</strong> with a passion for coding, lea
 
 ## 💻 Tools & Technologies
 -->
-
-<p align=center>
-  <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" /><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts" /><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=express,nestjs,linux,nginx" /><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,azure,git,github,githubactions" /><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,prisma,typeorm,mongodb,redis" /><br/>
-  </a>
-</p>
-
-<!-- Comments -->
+<!-- ⁉ You can <a href="https://curiouscat.live/0xMeGzz" target="_blank">ask</a> me anything -->
 <!-- <p align="center">
 <a href="https://buymeacoffee.com/megzz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
         <img src="https://skillicons.dev/icons?i=cpp" alt="CPP" width="55px" title="CPP">        
