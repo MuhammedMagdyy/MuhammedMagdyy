@@ -29,8 +29,9 @@ I'm a <strong>Talented Software Engineer</strong> with a passion for coding, lea
   <a href="https://go-skill-icons.vercel.app">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" /><br/>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts" /><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=express,nestjs,linux,nginx" /><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,azure,git,github,githubactions" /><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=express,nestjs,linux" /><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,git,github,githubactions" /><br/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws,azure,terraform,datadog" /><br/>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,prisma,typeorm,mongodb,redis" /><br/>
   </a>
 </p>
