@@ -15,7 +15,7 @@
 </p>
 
 <p>
-I'm a <strong>Talented Software Engineer</strong> with a passion for coding, learning, and a strong focus on backend development. With a solid foundation in core concepts such as Data structures, Algorithms, and Object-oriented programming (OOP). I'm interested in new technologies and trying to use the software as a solution.
+<strong>Talented Software Engineer</strong> passionate about building robust, maintainable, and scalable backend systems. Strong foundation in Data Structures, Algorithms, and Object-Oriented Programming (OOP). Experienced in building RESTful APIs, applying Design Patterns, SOLID Principles, and writing clean, maintainable code. Enthusiastic about continuous learning, exploring new technologies, and leveraging software to solve real-world problems.
 </p>
 
 - 🌱 I’m currently learning and focusing on **backend development** 
