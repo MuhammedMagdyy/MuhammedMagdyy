@@ -25,16 +25,21 @@
 
 <hr />
 
-<p align=center>
-  <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" /><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts" /><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=express,nestjs,linux" /><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,git,github,githubactions" /><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,aws,azure,terraform,datadog" /><br/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,prisma,typeorm,mongodb,redis" /><br/>
-  </a>
+<h3 align="center">🚀 Backend & Languages</h3>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,js,ts,express,nestjs&theme=dark" />
 </p>
+
+<h3 align="center">🛠️ DevOps & Tools</h3>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,nginx,git,github,githubactions,docker,aws,azure,terraform,datadog&theme=dark" />
+</p>
+
+<h3 align="center">🗄️ Databases & ORMs</h3>
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,mongodb,redis,prisma,typeorm&theme=dark" />
+</p>
+
 
 <hr />
 
