@@ -41,15 +41,16 @@
 </p>
 
 
+<!-- Comments -->
+<!--
+
+
 <hr />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammedmagdyy&show_icons=true&theme=transparent" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedmagdyy&layout=compact&theme=transparent" />
 </p>
-
-<!-- Comments -->
-<!--
 ## 🤯 Competitive Programming Profiles
 <img src="https://komarev.com/ghpvc/?username=MuhammedMagdyy&color=12100E&style=for-the-badge&label=VIEWS&abbreviated=true"/>
   ![badge](https://aktive.kerolloz.dev/egypt/MuhammedMagdyy?label=&color=12100E&style=for-the-badge&rnkPrefix=Ranked%20&rnkSuffix=%20In%20Egypt)
