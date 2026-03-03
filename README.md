@@ -1,12 +1,6 @@
 <h1 align="center"> Hey 👋, I'm Mohamed Magdy </h1>
 
 <div align="center">
-  <a href="https://aktive.kerolloz.dev#gh-dark-mode-only"><img src="https://img.shields.io/badge/dynamic/json?label=&query=%24.rank&suffix=%20As%20Most%20Active%20User%20in%20egypt&logo=github&style=for-the-badge&color=555&labelColor=333&url=https://aktive.kerolloz.dev/rank/egypt/MuhammedMagdyy" /></a>
-</div>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=muhammedmagdyy&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedmagdyy" /> </p>
-
-<div align="center">
         <img src='https://user-images.githubusercontent.com/60513866/193420194-36d02223-e2b7-4f5b-9327-6a331b842456.gif' alt='developer' />
 </div>
 
@@ -44,6 +38,11 @@
 <!-- Comments -->
 <!--
 
+<div align="center">
+  <a href="https://aktive.kerolloz.dev#gh-dark-mode-only"><img src="https://img.shields.io/badge/dynamic/json?label=&query=%24.rank&suffix=%20As%20Most%20Active%20User%20in%20egypt&logo=github&style=for-the-badge&color=555&labelColor=333&url=https://aktive.kerolloz.dev/rank/egypt/MuhammedMagdyy" /></a>
+</div>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=muhammedmagdyy&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedmagdyy" /> </p>
 
 <hr />
 
